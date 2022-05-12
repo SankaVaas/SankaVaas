@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**SankaVaas/SankaVaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💙 I love Data science, Mathematics and Programming -💻:. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning computer science
+- 👯 I’m looking to collaborate on software projects featuring Data science
+- 🤔 I’m looking for help with Data science and coding projects
+- ☎️ You can contact me:
+  - 📫 [Email](sankavvaass@gmail.com)
+  - 🏢 [Linkedin](https://www.linkedin.com/in/sanka-vaas-948861189/)
+  - :bird:[twitter](https://twitter.com/sanka_vaas)
+   
+   
+   [![Sanka vaas's github stats](https://github-readme-stats.vercel.app/api?username=SankaVaas&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SankaVaas)](https://github.com/anuraghazra/github-readme-stats)
