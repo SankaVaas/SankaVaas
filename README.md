@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-💙 I love Data science, Mathematics and Programming -💻:. 
-
-- 🌱 I’m currently learning computer science
 - 👯 I’m looking to collaborate on software projects featuring Data science
 - 🤔 I’m looking for help with Data science and coding projects
 - ☎️ You can contact me:
